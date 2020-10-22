@@ -8,9 +8,9 @@ Business Card project for Moscow Digital Academy students
 
 ## Contacts screen
 
-![Screenshot 2](https://raw.githubusercontent.com/Simimi-dot/Welcome-Business-Card/main/Welcome/Screenshots/Screenshot2.png)
+![Screenshot 2](https://raw.githubusercontent.com/Simimi-dot/Welcome-Business-Card/main/Welcome/Screenshots/Screenshot3.png)
 
 ## More info screen
 
-![Screenshot 3](https://raw.githubusercontent.com/Simimi-dot/Welcome-Business-Card/main/Welcome/Screenshots/Screenshot3.png)
+![Screenshot 3](https://raw.githubusercontent.com/Simimi-dot/Welcome-Business-Card/main/Welcome/Screenshots/Screenshot2.png)
  
